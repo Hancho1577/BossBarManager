@@ -1,0 +1,5 @@
+name: BossbarManager
+author: Hancho
+version: 1.0.0
+main: hancho.BossbarManager.BossbarManager
+api: [1.0.0]
